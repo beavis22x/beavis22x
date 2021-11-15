@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @beavis22x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  front-end developmet, React, RestApi, redux and all related libraries
+- 🌱 I’m currently taking a deep dive React hooks like useEffect, useReducer and useCallback, OOP and many other things.
+- 📫 You can contact me via sharhleb@gmail.com 
 
-While working on one of the first training projects, I set a fictional email in 
+Unfortunately, while i working on all my previous projects I unknowingly set a fictional email in 
 the local git config settings.And here 's what github says
 about it:
 "Generic email addresses--such as jane@computer.local--cannot be added to GitHub 
