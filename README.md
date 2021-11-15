@@ -4,7 +4,7 @@
 - 📫 You can contact me via sharhleb@gmail.com 
 
 Unfortunately, while i working on all my previous projects I unknowingly set a fictional email in 
-the local git config settings.And here 's what github says
+the local git config settings. And here's what github says
 about it:
 "Generic email addresses--such as jane@computer.local--cannot be added to GitHub 
 accounts. If you use such an email for your commits, the commits will not be linked 
